@@ -6,3 +6,4 @@ git status
 git commit
 git commit -m "my..."
 git push
+git pull
