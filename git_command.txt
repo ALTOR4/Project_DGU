@@ -1,7 +1,7 @@
 git config --global user.name "ALTOR4"
 git clone https://github.com/ALTOR4/Project_DGU
 cd Project_DGU
-git add git_command git_command.txt
+git add git_command.txt
 git status
 git commit
 git commit -m "my first message"
