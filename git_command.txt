@@ -4,3 +4,5 @@ cd Project_DGU
 git add git_command git_command.txt
 git status
 git commit
+git commit -m "my..."
+git push
