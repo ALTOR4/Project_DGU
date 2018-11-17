@@ -8,3 +8,4 @@ git commit -m "my first message"
 git push
 git pull
 git commit git_command.txt -m "more massage" 
+git rm git_command.txt
